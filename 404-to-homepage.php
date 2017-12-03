@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: 404 To Homepage
-Plugin URI: https://www.littlebizzy.com/plugins/404-to-homepage
+Plugin Name: 404 To Homepage (nospam)
+Plugin URI: https://github.com/lbthomsen/404-to-homepage
 Description: Redirects all 404 (Not Found) errors to the homepage for a better user experience, less abuse from bots, and 100% elimination of Google GSC warnings.
 Version: 1.0.7
 Author: LittleBizzy
